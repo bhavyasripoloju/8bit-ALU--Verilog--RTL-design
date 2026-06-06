@@ -43,12 +43,8 @@ gtkwave output.vcd
 ```
 
 ## Files
-
-- **andgate.v / tb_andgate.v** - AND gate implementation and testbench
-- **orgate.v / tb_orgate.v** - OR gate implementation and testbench
-- **nandgate.v / tb_nandgate.v** - NAND gate implementation and testbench
-- **xorgate.v / tb_xoragate.v** - XOR gate implementation and testbench
 - **bitalu8.v / tb_bitalu8.v** - 8-bit ALU implementation and testbench
+- **8bitalu.vcd/GTk wave -wave form of 8 bit alu 
 
 ## Learning Objectives
 
